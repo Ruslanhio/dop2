@@ -4,9 +4,9 @@ import './App.css';
 
 
 type PropsType = {
-    userId: number,
-    id: number,
-    title: string,
+    userId: number
+    id: number
+    title: string
     completed: boolean
 }
 
